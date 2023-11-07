@@ -1,0 +1,263 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {
+
+    .table-responsive9 table tr td {
+        font-size:12px;
+    }
+    .rentalagreement6-area .ra-body-item ul li {
+        font-size:14px;
+    }
+    .ra9main .ra-body-item h3 {
+        font-size:14px;
+    }
+    .ra9main .ra-body-item p {
+        font-size:12px;
+    } 
+    .table-list h3 {
+        font-size:12px;
+    }
+
+    .ra10-header h3 {
+        font-size:12px !important;
+    }
+    .ra10-header ul li,.ra10-header ul li:last-child {
+        font-size:12px;
+    }
+    .ra10col1 h3 {
+        font-size:14px;
+    }
+    .ra10-body table {
+        width:100%;
+    }
+    .ra10col1 span {
+        font-size:14px;
+    }
+    .ra10-body table tr td ul li {
+        font-size:14px;
+    }
+    .ra10col1 p {
+        font-size: 14px;
+    }
+
+    .rentalagreement7-area table tr td p {
+        font-size: 16px;
+    } 
+    .ra11-data{
+        font-size:16px;
+    }
+    .ra11-table table tr th {
+        font-size:14px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+.container > ul li {
+    font-size:12px;
+    margin-bottom:10px;
+}
+.container > h3 , .container > h3 a {
+    font-size:14px;
+    margin-top:20px;
+}
+.container > label a {
+    margin-top:10px;
+    font-size:15px;
+}
+
+
+.table-responsive9 table tr td {
+    font-size:12px;
+}
+.rentalagreement6-area .ra-body-item ul li {
+    font-size:14px;
+}
+.ra9main .ra-body-item h3 {
+    font-size:14px;
+}
+.ra9main .ra-body-item p {
+    font-size:12px;
+} 
+.table-list h3 {
+    font-size:12px;
+}
+
+
+.ra10-header h3 {
+    font-size:12px !important;
+}
+.ra10-header ul li,.ra10-header ul li:last-child {
+    font-size:12px;
+}
+.ra10col1 h3 {
+    font-size:12px;
+}
+.ra10-body table {
+    width:100%;
+}
+.ra10col1 p {
+    font-size:14px;
+}
+.ra10col1 span {
+    font-size:14px;
+}
+.ra10-body table tr td ul li {
+    font-size:14px;
+}
+
+
+.rentalagreement7-area table tr td p {
+    font-size: 14px;
+} 
+.ra11-data{
+    font-size:14px;
+}
+.ra11-table table tr th {
+    font-size:14px;
+}
+.ra2-signature label span {
+    font-size:14px;
+}
+.ra2-signature label {
+    font-size:14px;
+}
+.ra2-signature p {
+    font-size:20px;
+}
+
+.ra-header {
+    align-items:start;
+    flex-direction: column;
+}
+.ra-header > div label span {
+    font-size:14px;
+}
+.ra-header > div label p {
+    font-size:14px;
+}
+.ra-body > p {
+    font-size:14px;
+}
+.ra-body-item p {
+    font-size:14px;
+}
+.ra-body-item h3 {
+    font-size:16px;
+}
+.ra-body > h5 {
+    font-size:16px;
+}
+
+.ra-body-item > p span {
+    font-size:14px;
+}
+.rentalagreement7-area table tr td {
+    font-size:12px;
+}
+
+
+
+
+
+}
